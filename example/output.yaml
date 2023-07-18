@@ -1,0 +1,9 @@
+- README.md
+- cmd/:
+  - main/
+- internal/
+- pkg/:
+  - test/:
+    - test.go
+  - pkg.go
+- vendor/

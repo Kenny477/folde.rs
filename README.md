@@ -1,3 +1,3 @@
 # folde.rs
 
-A CLI tool to generate and deploy folder structures for projects.
+A CLI tool to generate and deploy file structures.

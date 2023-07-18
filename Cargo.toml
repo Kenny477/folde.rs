@@ -1,8 +1,16 @@
 [package]
 name = "folders"
 version = "0.1.0"
+authors = ["Kenneth Tang <opensource@kennethtang.org>"]
+license = "MIT"
+description = "A CLI tool to generate and deploy file structures"
+readme = "README.md"
+homepage = "https://github.com/Kenny477/folde.rs"
+repository = "https://github.com/Kenny477/folde.rs"
 edition = "2021"
 exclude = ["/example"]
+keywords = ["cli", "filesystem", "folder", "generator", "yaml", "directory"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

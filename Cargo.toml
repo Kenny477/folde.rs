@@ -9,7 +9,7 @@ homepage = "https://github.com/Kenny477/folde.rs"
 repository = "https://github.com/Kenny477/folde.rs"
 edition = "2021"
 exclude = ["/example"]
-keywords = ["cli", "filesystem", "folder", "generator", "yaml", "directory"]
+keywords = ["cli", "filesystem", "folder", "generator", "yaml"]
 categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
